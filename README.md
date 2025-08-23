@@ -1,4 +1,5 @@
-<img width="3240" height="1248" alt="SDASD" src="https://github.com/user-attachments/assets/35786a86-17ed-4be6-8a7e-c424200b1383" />
+
+<img width="3240" height="1248" alt="SDASD" src="https://github.com/user-attachments/assets/46941578-13ed-40e2-a3da-93e048e8c95c" />
 
 # Hey 👋 What's up?
 

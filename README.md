@@ -1,5 +1,6 @@
 
-<img width="3240" height="1248" alt="SDASD" src="https://github.com/user-attachments/assets/46941578-13ed-40e2-a3da-93e048e8c95c" />
+<img width="3240" height="1248" alt="SDAS![Uploading fbc6f31bd3b84159470b973aca7e0f97_gif 1,920 × 1,080 pixels.gif…]()
+D" src="https://github.com/user-attachments/assets/46941578-13ed-40e2-a3da-93e048e8c95c" />
 
 # Hey 👋 What's up?
 

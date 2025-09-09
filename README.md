@@ -1,5 +1,6 @@
 
-<img width="3240" height="1248" alt="SDAS!" src="https://github.com/user-attachments/assets/46941578-13ed-40e2-a3da-93e048e8c95c" />
+<img width="1500" height="500" alt="x banner exact ratio" src="https://github.com/user-attachments/assets/0e1424ad-4ee8-482d-b13a-be706c087168" />
+
 
 # Hey 👋 What's up?
 

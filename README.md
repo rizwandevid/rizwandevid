@@ -9,7 +9,7 @@
   <table width="100%">
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=1888ff&center=true&vCenter=true&width=900&height=60&lines=👋+My+name+is+Rizwan+Ul+Hassan;(aka+Rizwan+Devid%2C+nick:+rizii);🚀+Full-Stack+SaaS+Developer;📱+Native+Android+Developer;💻+Full-Stack+Web+Developer;From+🇵🇰+Pakistan+with+❤️" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=1888ff&center=true&vCenter=true&width=900&height=60&lines=👋+My+name+is+Rizwan+Ul+Hassan;nick:+Rizwan+Devid;🚀+Full-Stack+SaaS+Developer;📱+Native+Android+Developer;💻+Full-Stack+Web+Developer;From+Pakistan+with+❤️" alt="Typing SVG" />
         <br><br>
         <img src="https://img.shields.io/badge/✨-Always%20Learning-1888ff?style=for-the-badge&logoColor=white" />
         <img src="https://img.shields.io/badge/🚀-Always%20Building-1888ff?style=for-the-badge&logoColor=white" />

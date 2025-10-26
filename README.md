@@ -1,4 +1,3 @@
-
 <!-- <img width="1500" height="500" alt="x banner exact ratio" src="https://github.com/user-attachments/assets/0e1424ad-4ee8-482d-b13a-be706c087168" /> -->
 
 
@@ -13,9 +12,9 @@
       <td align="center" style="padding: 20px;">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=a7a52d&center=true&vCenter=true&width=900&height=60&lines=👋+My+name+is+Rizwan+Ul+Hassan;Nick+Name:+Rizwan+Devid;🚀+Full-Stack+Developer;📱+Native+Android+Developer;💻+Full-Stack+Web+Developer;From+Pakistan+with+❤️" alt="Typing SVG" />
         <br><br>
-        <img src="https://img.shields.io/badge/✨-Always%20Learning-1888ff?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/🚀-Always%20Building-1888ff?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/💻-Always%20Coding-1888ff?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/✨-Always%20Learning-476315?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/🚀-Always%20Building-476315?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/💻-Always%20Coding-476315?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -77,6 +76,7 @@ flowchart LR
     style D fill:#96CEB4,stroke:#333,stroke-width:2px,color:#fff
     style E fill:#FFD93D,stroke:#333,stroke-width:2px,color:#333
     style F fill:#FF9FF3,stroke:#333,stroke-width:2px,color:#fff
+
 ```
 
 

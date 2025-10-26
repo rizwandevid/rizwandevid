@@ -1,6 +1,7 @@
 
-<img width="1500" height="500" alt="x banner exact ratio" src="https://github.com/user-attachments/assets/0e1424ad-4ee8-482d-b13a-be706c087168" />
+<!-- <img width="1500" height="500" alt="x banner exact ratio" src="https://github.com/user-attachments/assets/0e1424ad-4ee8-482d-b13a-be706c087168" /> -->
 
+<img width="1664" height="596" alt="174b2057-62a8-4d81-a1cd-9490cc2cd04d_11zon" src="https://github.com/user-attachments/assets/1d72b146-0cc7-4224-b81c-2279a5a313e7" />
 
 # Hey 👋 What's up?
 

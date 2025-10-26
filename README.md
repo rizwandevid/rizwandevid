@@ -1,7 +1,9 @@
 <!-- <img width="1500" height="500" alt="x banner exact ratio" src="https://github.com/user-attachments/assets/0e1424ad-4ee8-482d-b13a-be706c087168" /> -->
 
 
-<img width="1664" height="596" alt="174b2057-62a8-4d81-a1cd-9490cc2cd04d (1)" src="https://github.com/user-attachments/assets/c1b5d5be-c3fc-4291-a6fd-e86ff358c3d4" />
+<!-- <img width="1664" height="596" alt="174b2057-62a8-4d81-a1cd-9490cc2cd04d (1)" src="https://github.com/user-attachments/assets/c1b5d5be-c3fc-4291-a6fd-e86ff358c3d4" /> -->
+<img width="832" height="325" alt="dsds" src="https://github.com/user-attachments/assets/7edd3d80-afd2-4e98-94af-7e8c67291c52" />
+
 
 # Hey 👋 What's up?
 

@@ -94,18 +94,17 @@ flowchart LR
   <table width="100%">
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=1888ff&center=true&vCenter=true&width=900&height=60&lines=💻+Code+is+poetry;🚀+Solve+first,+code+later;✨+Clean+code+matters;🎯+Write+code+for+humans;⚡+Good+code+is+understandable;🌟+Errors+teach;🔥+Talk+is+cheap,+code+more;💡+Think+before+coding;🛠️+Debugging+is+fun;📚+Learn+every+day;💪+Practice+makes+perfect;🌐+Code+connects+worlds;🔍+Refactor+often;🎨+Code+is+creative;⚙️+Automation+saves+time;🧩+Solve+puzzles;📈+Optimize+everything;💭+Imagine+before+you+code;🎉+Celebrate+small+wins;📝+Document+your+code" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=a7a52d&center=true&vCenter=true&width=900&height=60&lines=💻+Code+is+poetry;🚀+Solve+first,+code+later;✨+Clean+code+matters;🎯+Write+code+for+humans;⚡+Good+code+is+understandable;🌟+Errors+teach;🔥+Talk+is+cheap,+code+more;💡+Think+before+coding;🛠️+Debugging+is+fun;📚+Learn+every+day;💪+Practice+makes+perfect;🌐+Code+connects+worlds;🔍+Refactor+often;🎨+Code+is+creative;⚙️+Automation+saves+time;🧩+Solve+puzzles;📈+Optimize+everything;💭+Imagine+before+you+code;🎉+Celebrate+small+wins;📝+Document+your+code" alt="Typing SVG" />
         <br><br>
-        <img src="https://img.shields.io/badge/💡-Think%20First-1888ff?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/🚀-Code%20Smart-1888ff?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/✨-Ship%20Clean-1888ff?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/💡-Think%20First-476315?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/🚀-Code%20Smart-a7a52d?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/✨-Ship%20Clean-476315?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
   </table>
 </div>
 
-
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=devrizii.devrizii&"  />
 </div>
+

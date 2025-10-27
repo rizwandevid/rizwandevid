@@ -1,8 +1,6 @@
+
 <!-- <img width="1500" height="500" alt="x banner exact ratio" src="https://github.com/user-attachments/assets/0e1424ad-4ee8-482d-b13a-be706c087168" /> -->
-
-
-<!-- <img width="1664" height="596" alt="174b2057-62a8-4d81-a1cd-9490cc2cd04d (1)" src="https://github.com/user-attachments/assets/c1b5d5be-c3fc-4291-a6fd-e86ff358c3d4" /> -->
-<img width="832" height="325" alt="dsds" src="https://github.com/user-attachments/assets/7edd3d80-afd2-4e98-94af-7e8c67291c52" />
+<img width="1184" height="597" alt="dfad" src="https://github.com/user-attachments/assets/fd58b73e-34b6-46ac-8563-f00cd29fc8a1" />
 
 
 # Hey 👋 What's up?
@@ -12,11 +10,11 @@
   <table width="100%">
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=a7a52d&center=true&vCenter=true&width=900&height=60&lines=👋+My+name+is+Rizwan+Ul+Hassan;Nick+Name:+Rizwan+Devid;🚀+Full-Stack+Developer;📱+Native+Android+Developer;💻+Full-Stack+Web+Developer;From+Pakistan+with+❤️" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=1888ff&center=true&vCenter=true&width=900&height=60&lines=👋+My+name+is+Rizwan+Ul+Hassan;Nick+Name:+Rizwan+Devid;🚀+Full-Stack+Developer;📱+Native+Android+Developer;💻+Full-Stack+Web+Developer;From+Pakistan+with+❤️" alt="Typing SVG" />
         <br><br>
-        <img src="https://img.shields.io/badge/✨-Always%20Learning-a7a52d?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/🚀-Always%20Building-a7a52d?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/💻-Always%20Coding-a7a52d?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/✨-Always%20Learning-1888ff?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/🚀-Always%20Building-1888ff?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/💻-Always%20Coding-1888ff?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -78,7 +76,6 @@ flowchart LR
     style D fill:#96CEB4,stroke:#333,stroke-width:2px,color:#fff
     style E fill:#FFD93D,stroke:#333,stroke-width:2px,color:#333
     style F fill:#FF9FF3,stroke:#333,stroke-width:2px,color:#fff
-
 ```
 
 
@@ -96,17 +93,18 @@ flowchart LR
   <table width="100%">
     <tr>
       <td align="center" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=a7a52d&center=true&vCenter=true&width=900&height=60&lines=💻+Code+is+poetry;🚀+Solve+first,+code+later;✨+Clean+code+matters;🎯+Write+code+for+humans;⚡+Good+code+is+understandable;🌟+Errors+teach;🔥+Talk+is+cheap,+code+more;💡+Think+before+coding;🛠️+Debugging+is+fun;📚+Learn+every+day;💪+Practice+makes+perfect;🌐+Code+connects+worlds;🔍+Refactor+often;🎨+Code+is+creative;⚙️+Automation+saves+time;🧩+Solve+puzzles;📈+Optimize+everything;💭+Imagine+before+you+code;🎉+Celebrate+small+wins;📝+Document+your+code" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=1888ff&center=true&vCenter=true&width=900&height=60&lines=💻+Code+is+poetry;🚀+Solve+first,+code+later;✨+Clean+code+matters;🎯+Write+code+for+humans;⚡+Good+code+is+understandable;🌟+Errors+teach;🔥+Talk+is+cheap,+code+more;💡+Think+before+coding;🛠️+Debugging+is+fun;📚+Learn+every+day;💪+Practice+makes+perfect;🌐+Code+connects+worlds;🔍+Refactor+often;🎨+Code+is+creative;⚙️+Automation+saves+time;🧩+Solve+puzzles;📈+Optimize+everything;💭+Imagine+before+you+code;🎉+Celebrate+small+wins;📝+Document+your+code" alt="Typing SVG" />
         <br><br>
-        <img src="https://img.shields.io/badge/💡-Think%20First-a7a52d?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/🚀-Code%20Smart-a7a52d?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/✨-Ship%20Clean-a7a52d?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/💡-Think%20First-1888ff?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/🚀-Code%20Smart-1888ff?style=for-the-badge&logoColor=white" />
+        <img src="https://img.shields.io/badge/✨-Ship%20Clean-1888ff?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
   </table>
 </div>
 
+
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=devrizii.devrizii&"  />
 </div>
-

@@ -1,6 +1,6 @@
 
-<!-- <img width="1500" height="500" alt="x banner exact ratio" src="https://github.com/user-attachments/assets/0e1424ad-4ee8-482d-b13a-be706c087168" /> -->
-<img width="1184" height="597" alt="dfad" src="https://github.com/user-attachments/assets/fd58b73e-34b6-46ac-8563-f00cd29fc8a1" />
+<img width="1500" height="500" alt="x banner exact ratio" src="https://github.com/user-attachments/assets/0e1424ad-4ee8-482d-b13a-be706c087168" /> 
+<!-- <img width="1184" height="597" alt="dfad" src="https://github.com/user-attachments/assets/fd58b73e-34b6-46ac-8563-f00cd29fc8a1" /> -->
 
 
 # Hey 👋 What's up?

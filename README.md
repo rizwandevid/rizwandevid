@@ -23,14 +23,6 @@
   
 </div>
 
-# ✨ About me
-
-✨ Coding since 2023 — turning ideas into digital reality. <br/>
-🎯 Goal: Launch impactful SaaS products that people love 🚀.<br/>
-🎲 Fun fact: Coffee + lo-fi beats = my secret coding fuel ☕🎶.<br/>
-💡 Mindset: Always learning, always building, always improving.<br/>
-🛠️ Favorite tools: Next.js, Node.js, Tailwind CSS, Figma, and VS Code.<br/>
-
 # 👨🏻‍💻I code with
 ###
 
@@ -92,16 +84,6 @@
 
 ---
 
-
-
-# 🎯 Current Focus
-
-- Building scalable SaaS applications with Next.js and TypeScript
-- Exploring modern web technologies and best practices
-- Creating content around full-stack development
-- Contributing to open-source projects
-
----
 
 <div align="center">
   <table width="100%">

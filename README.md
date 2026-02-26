@@ -62,23 +62,35 @@
 
 ###
 
-# 🚀 My Development Workflow
+# 🌐 Explore My Work
 
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[🎨 Design]
-    B --> C[⚡ Frontend]
-    C --> D[🔌 Backend]
-    D --> E[🚀 Deploy]
-    E --> F[🔁 Enjoy]
-    
-    style A fill:#ff6b6b,stroke:#333,stroke-width:2px,color:#fff
-    style B fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#fff
-    style C fill:#45B7D1,stroke:#333,stroke-width:2px,color:#fff
-    style D fill:#96CEB4,stroke:#333,stroke-width:2px,color:#fff
-    style E fill:#FFD93D,stroke:#333,stroke-width:2px,color:#333
-    style F fill:#FF9FF3,stroke:#333,stroke-width:2px,color:#fff
-```
+<div align="center">
+  <a href="https://rizwandevid.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-F11D0E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge" height="45"/>
+  </a>
+  <br/>
+  <br/>
+  
+  <table>
+    <tr>
+      <td>
+        <a href="https://rizwandevid.vercel.app" target="_blank">
+          <img src="https://api.microlink.io/?url=https%3A%2F%2Frizwandevid.vercel.app&screenshot=true&meta=false&embed=screenshot.url" width="500px" alt="Portfolio Preview" style="border-radius: 10px; border: 2px solid #F11D0E;"/>
+        </a>
+      </td>
+      <td valign="center">
+        <h3> 🔗 <a href="https://rizwandevid.vercel.app">rizwandevid.vercel.app</a></h3>
+        <p>Explore my latest projects, technical skills, and professional journey in a fully responsive experience.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
+          <img src="https://img.shields.io/badge/Tech-Next.js%20|%20Tailwind-blue?style=flat-square" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 
 

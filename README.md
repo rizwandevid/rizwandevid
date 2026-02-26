@@ -23,36 +23,6 @@
   
 </div>
 
-# 👨🏻‍💻I code with
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
-
-###
 
 # 🌐 Explore My Work
 
@@ -77,23 +47,6 @@
           <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" />
           <img src="https://img.shields.io/badge/Tech-Next.js%20|%20Tailwind-blue?style=flat-square" />
         </p>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1500&color=F11D0E&center=true&vCenter=true&width=900&height=60&lines=💻+Code+is+poetry;🚀+Solve+first,+code+later;✨+Clean+code+matters;🎯+Write+code+for+humans;⚡+Good+code+is+understandable;🌟+Errors+teach;🔥+Talk+is+cheap,+code+more;💡+Think+before+coding;🛠️+Debugging+is+fun;📚+Learn+every+day;💪+Practice+makes+perfect;🌐+Code+connects+worlds;🔍+Refactor+often;🎨+Code+is+creative;⚙️+Automation+saves+time;🧩+Solve+puzzles;📈+Optimize+everything;💭+Imagine+before+you+code;🎉+Celebrate+small+wins;📝+Document+your+code" alt="Typing SVG" />
-        <br><br>
-        <img src="https://img.shields.io/badge/💡-Think%20First-F11D0E?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/🚀-Code%20Smart-F11D0E?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/✨-Ship%20Clean-F11D0E?style=for-the-badge&logoColor=white" />
       </td>
     </tr>
   </table>

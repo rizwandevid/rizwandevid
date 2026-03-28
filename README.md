@@ -1,4 +1,5 @@
 <img width="1500" height="500" alt="g" src="https://github.com/user-attachments/assets/3ca89a21-be97-414a-917b-07f94ce79f41" />
+#
 <div align="center">
   
   <table width="100%">
@@ -61,5 +62,3 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=F6220A&height=60&text=Thanks+for+Stopping+By+%F0%9F%9A%80&fontColor=ffffff&fontSize=22&fontAlign=50&fontAlignY=55" />

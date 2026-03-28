@@ -24,12 +24,6 @@ UI Toolkit  : Jetpack Compose
 
 <br/>
 
-I'm a **self-driven indie developer** who loves turning ideas into polished, real-world products — solo. From pixel-perfect web apps to smooth native Android experiences, I build things end-to-end with care and craft.
-
-> *"The best way to predict the future is to build it yourself."*
-
-<br clear="right"/>
-
 ###
 ---
 ⭐ *From [Dev Rizii](https://github.com/yourusername) — Thanks for stopping by.*

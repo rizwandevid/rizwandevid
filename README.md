@@ -1,5 +1,5 @@
 <img width="1500" height="500" alt="g" src="https://github.com/user-attachments/assets/3ca89a21-be97-414a-917b-07f94ce79f41" />
-###
+
 ## 🧑‍💻 Who Am I?
 
 ```yaml
@@ -10,6 +10,16 @@ Role        : Indie App & Web Developer
 Focus       : Building solo tools that actually matter
 Philosophy  : Ship it. Improve it. Repeat.
 Status      : Always open to exciting opportunities 🚀
+
+── Web Development ──────────────────────────
+Frontend    : Next.js · React · React Native
+Languages   : JavaScript · TypeScript
+Styling     : Tailwind CSS · HTML · CSS
+
+── Android Development ──────────────────────
+Language    : Kotlin
+UI Toolkit  : Jetpack Compose
+
 ```
 
 <br/>
@@ -20,31 +30,6 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
 
 <br clear="right"/>
 
-# 👨🏻‍💻I code with
 ###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="Android Studio" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="Kotlin" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-</div>
-###
+---
 ⭐ *From [Dev Rizii](https://github.com/yourusername) — Thanks for stopping by.*

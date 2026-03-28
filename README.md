@@ -22,8 +22,6 @@ UI Toolkit  : Jetpack Compose
 
 ```
 
-<br/>
-
 ###
 ---
 ⭐ *From [Dev Rizii](https://github.com/yourusername) — Thanks for stopping by.*

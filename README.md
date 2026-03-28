@@ -1,20 +1,5 @@
 <img width="1500" height="500" alt="g" src="https://github.com/user-attachments/assets/3ca89a21-be97-414a-917b-07f94ce79f41" />
 
-<div align="center">
-  
-  <table width="100%">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1500&color=F11D0E&center=true&vCenter=true&width=900&height=60&lines=👋+My+name+is+Rizwan+Ul+Hassan;Nick+Name:+Dev+Rizii;🚀+Full-Stack+Developer;📱+Native+Android+Developer;💻+Full-Stack+Web+Developer;From+Pakistan+with+❤️" alt="Typing SVG" />
-        <br><br>
-        <img src="https://img.shields.io/badge/✨-Always%20Learning-F11D0E?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/🚀-Always%20Building-F11D0E?style=for-the-badge&logoColor=white" />
-        <img src="https://img.shields.io/badge/💻-Always%20Coding-F11D0E?style=for-the-badge&logoColor=white" />
-      </td>
-    </tr>
-  </table>
-  
-</div>
 
 ## 🧑‍💻 Who Am I?
 
@@ -62,3 +47,5 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
 </div>
+
+⭐ *From [Dev Rizii](https://github.com/yourusername) — Thanks for stopping by.*

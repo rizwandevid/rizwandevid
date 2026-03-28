@@ -1,6 +1,5 @@
 <img width="1500" height="500" alt="g" src="https://github.com/user-attachments/assets/3ca89a21-be97-414a-917b-07f94ce79f41" />
-
-
+###
 ## 🧑‍💻 Who Am I?
 
 ```yaml
@@ -47,5 +46,5 @@ I'm a **self-driven indie developer** who loves turning ideas into polished, rea
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
 </div>
-
+###
 ⭐ *From [Dev Rizii](https://github.com/yourusername) — Thanks for stopping by.*

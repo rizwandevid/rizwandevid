@@ -4,7 +4,7 @@
 
 ```yaml
 Name        : Muhammad Rizwan Ul Hassan
-Alias       : Dev Rizii
+Nickname       : Dev Rizii
 Location    : Pakistan 🇵🇰
 Role        : Indie App & Web Developer
 Focus       : Building solo tools that actually matter

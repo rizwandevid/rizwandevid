@@ -4,7 +4,7 @@
 
 ```yaml
 Name        : Muhammad Rizwan Ul Hassan
-Nickname    : Dev Rizii
+Nickname    : Rizwan Devid
 Location    : Pakistan 🇵🇰
 Role        : Indie App & Web Developer
 Focus       : Building solo tools that actually matter
@@ -22,4 +22,4 @@ Tools       : Git · GitHub · Docker · Figma
 ```
 ###
 ---
-⭐ *From [Dev Rizii](https://github.com/DevRizii) — Thanks for stopping by.*
+⭐ *From [Rizwan Devid](https://github.com/rizwanDevid) — Thanks for stopping by.*

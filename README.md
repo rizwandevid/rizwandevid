@@ -1,9 +1,9 @@
-<img width="1500" height="500" alt="g" src="https://github.com/user-attachments/assets/5307bbeb-e0db-4a19-88b9-d7307f664575" />
-
+<img width="1500" height="500" alt="g" src="https://github.com/user-attachments/assets/fd816271-4467-4fc9-b833-23ec8dd642e2" />
+ 
 ## 🧑‍💻 Who Am I?
 
 ```yaml
-Name        : Rizwan Ul Hassan
+Name        : Muhammad Rizwan Ul Hassan
 Alias       : Dev Rizii
 Location    : Pakistan 🇵🇰
 Role        : Indie App & Web Developer
@@ -11,17 +11,15 @@ Focus       : Building solo tools that actually matter
 Philosophy  : Ship it. Improve it. Repeat.
 Status      : Always open to exciting opportunities 🚀
 
-── Web Development ──────────────────────────
-Frontend    : Next.js · React · React Native
+── Skills ──────────────────────────
+Frontend    : Next.js · React · React Native (Expo)
 Languages   : JavaScript · TypeScript
-Styling     : Tailwind CSS · HTML · CSS
-
-── Android Development ──────────────────────
-Language    : Kotlin
-UI Toolkit  : Jetpack Compose
+Backend     : Node.js · Express.js
+Styling     : HTML · Tailwind CSS · CSS
+Database    : Firebase · MongoDB
+Tools       : Git · GitHub · Docker · Figma 
 
 ```
-
 ###
 ---
-⭐ *From [Dev Rizii](https://github.com/yourusername) — Thanks for stopping by.*
+⭐ *From [Dev Rizii](https://github.com/DevRizii) — Thanks for stopping by.*

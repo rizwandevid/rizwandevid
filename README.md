@@ -7,8 +7,6 @@ Name        : Muhammad Rizwan Ul Hassan
 Nickname    : Rizwan Devid
 Location    : Pakistan 🇵🇰
 Role        : Indie App & Web Developer
-Focus       : Building solo tools that actually matter
-Philosophy  : Ship it. Improve it. Repeat.
 Status      : Always open to exciting opportunities 🚀
 
 ── Skills ──────────────────────────
@@ -16,7 +14,7 @@ Frontend    : Next.js · React · React Native (Expo)
 Languages   : JavaScript · TypeScript
 Backend     : Node.js · Express.js
 Styling     : HTML · Tailwind CSS · CSS
-Database    : Firebase · MongoDB
+Database    : Firebase · Supabase
 Tools       : Git · GitHub · Docker · Figma 
 
 ```

@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="g" src="https://github.com/user-attachments/assets/fd816271-4467-4fc9-b833-23ec8dd642e2" />
+<!-- <img width="1500" height="500" alt="g" src="https://github.com/user-attachments/assets/fd816271-4467-4fc9-b833-23ec8dd642e2" /> -->
  
 ## 🧑‍💻 Who Am I?
 
